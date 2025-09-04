@@ -12,7 +12,8 @@ function About() {
         <Navbar />
         <div className="about-section">
             <h2 className="section-title"><BsPersonArmsUp className="section-icon"/>Personal Information</h2>
-            <p>Hello! I am Rinto Rahmat Putra Lase, Fresh graduate student of the Informatics Engineering study program at Mikroskil University, with a GPA of 3.53 on a 4.0 scale. I have skills in several programming languages ​​such as HTML, CSS, JavaScript, Python, MySQL, also have skills in the field of Figma application prototyping, Adobe Photoshop editing applications, Microsoft Office operating skills and UI/UX Design. Apart from the skills above, I also have a high dedication to learning and developing, and am ready to contribute positively and professionally to the surrounding environment. I can also easily change and learn new things to support and improve my skills and abilities.
+            <p>
+                Lulusan S1 Teknik Informatika dari Universitas Mikroskil dengan pengalaman di bidang analisis data, administrasi, pengolahan data dengan ketelitian yang tinggi, inventaris logistik. Selain itu, saya juga memiliki kemampuan UI/UX Pemula serta penguasaan beberapa bahasa pemrograman. Saya suka menyelesaikan pekerjaan dengan detail dan akurat serta menyelesaikannya dengan cepat dan tepat. Kombinasi pengalaman administrative dan keterampilan teknis serta kecepatan saya dalam bekerja menjadikan saya lebih fleksibel dalam berbagai pekerjaan, baik yang bersifat manajerial maupun berbasi teknologi
             </p>
         </div>
 
