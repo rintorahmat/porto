@@ -43,9 +43,9 @@ function Experience() {
                 <div>Tahun: 2024</div>
             </li>
             <li>
-                <strong>Cashier Application in C Language</strong> - <em>Personal Portfolio</em><br />
+                <strong>Membuat Aplikasi Kasir Menggunakan bahasa pemrograman C</strong> - <em>Personal Portfolio</em><br />
                 <span>Description:</span> Create a cashier application using the C programming language in its development
-                <div>Tahun: 2024 2023</div>
+                <div>Tahun: 2023</div>
             </li>
             </ul>
         </div>
