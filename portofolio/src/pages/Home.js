@@ -14,7 +14,7 @@
             <p className="profile-description">Programmer – UI/ UX Design – Analytics </p>
 
             <div className="social-icons">
-                <a href="https://www.instagram.com/rinto_rhmt/profilecard/?igsh=Y3h2NDZ2YjE1bXZh" className="social-icon"><FaInstagram /></a>
+                <a href="https://www.instagram.com/rhmt_putraaa/profilecard/?igsh=Y3h2NDZ2YjE1bXZh" className="social-icon"><FaInstagram /></a>
                 <a href="https://www.facebook.com/profile.php?id=100028193507207&mibextid=ZbWKwL" className="social-icon"><FaFacebook /></a>
                 <a href="https://www.linkedin.com/in/rinto-rahmat-putra-lase-526807228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="social-icon"><FaLinkedin /></a>
                 <a href="https://wa.me/6282165526837" className="social-icon"><FaWhatsapp  /></a>
